@@ -1,0 +1,23 @@
+﻿Coluna,Descrição
+ID_Cliente,Código de identificação único de cada cliente
+Evasao,Indica se o cliente deixou a empresa (1 - Sim) ou permaneceu (0 - Não)
+Genero,Gênero do cliente (Feminino/Masculino)
+Idoso,"Informa se o cliente tem 65 anos ou mais (1 - Sim, 0 - Não)"
+Partner,Indica se o cliente possui parceiro ou parceira
+Dependents,Indica se o cliente possui dependentes
+Meses_Contrato,Quantidade de meses que o cliente está com a empresa
+PhoneService,Se o cliente possui assinatura de serviço telefônico
+MultipleLines,Se o cliente possui mais de uma linha telefônica
+InternetService,Tipo de provedor de internet assinado
+OnlineSecurity,Se possui serviço adicional de segurança online
+OnlineBackup,Se possui serviço adicional de backup online
+DeviceProtection,Se possui serviço adicional de proteção de dispositivo
+TechSupport,Se possui suporte técnico adicional com menor tempo de espera
+StreamingTV,Se possui assinatura de TV a cabo
+StreamingMovies,Se possui assinatura de streaming de filmes
+Contrato,"Tipo de faturamento (Mês a mês, Anual, Bienal)"
+PaperlessBilling,Se o cliente optou por faturas digitais
+PaymentMethod,Método de pagamento utilizado
+Faturamento_Mensal,Valor total cobrado do cliente mensalmente
+Faturamento_Total,Valor total gasto pelo cliente desde o início do contrato
+Contas_Diarias,Média de gasto diário do cliente (calculado)
